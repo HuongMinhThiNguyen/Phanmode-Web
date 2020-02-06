@@ -1,0 +1,13 @@
+@mixin buttonTwo {
+    background-color: white;
+    padding: 1rem;
+    text-transform: uppercase;
+    color: darkgoldenrod;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    padding: 0.5rem;
+    font-size: 0.8rem;
+    letter-spacing: 3px;
+    border: 1px solid;
+    transition: 0.3s;
+}

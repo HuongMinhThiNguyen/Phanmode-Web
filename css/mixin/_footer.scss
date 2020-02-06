@@ -1,0 +1,29 @@
+#footer {
+    background-color: rgb(245, 230, 233);
+}
+
+.footer {
+    width: 100vw;
+    height: auto;
+    text-align: center;
+    color: darkred;
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    font-size: 1.5rem;
+    .footer-img {
+        width: auto;
+        max-height: 30vh;
+    }
+    h2 {
+        padding-top: 5rem;
+    }
+    .hour {
+        margin-left: 3rem;
+        text-align: left;
+    }
+    // background-image: url(/images/background-footer.jpg);
+    // background-size: cover;
+    // width: 80vw;
+    // height: 50vh;
+    // margin-top: 3rem;
+}

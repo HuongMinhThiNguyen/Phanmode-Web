@@ -1,0 +1,49 @@
+.circle {
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    border-radius: 50%;
+    position: absolute;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+#about {
+    padding: 10rem 5rem;
+    background: url(/images/fall-autumn-leaves-abstract-picjumbo-com.jpg) no-repeat center center;
+    background-size: cover;
+    // .row {
+    //     width: 90vw;
+    //     margin: 0 auto;
+    //     // display: flex;
+    //     // flex: 1 50%;
+    //     display: grid;
+    //     grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    //     padding: 0 3rem;
+    //     .story {
+    //         justify-items: center;
+    //         padding-right: 10rem;
+    //     }
+    .photo {
+        width: 100%;
+        height: auto;
+    }
+    .photoShop {
+        width: 100%;
+        height: auto;
+    }
+    .aboutUs {
+        p {
+            padding-right: 3rem;
+            font-family: 'Raleway', sans-serif;
+        }
+    }
+    .right {
+        width: 70%;
+    }
+    .btn-primary {
+        background-color: orangered;
+        margin: 0 30% 5%;
+    }
+}
